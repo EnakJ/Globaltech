@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+*, ::before, ::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.voirprod {
+	color: red;
+}
